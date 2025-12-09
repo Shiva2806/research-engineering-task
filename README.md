@@ -138,8 +138,3 @@ Built using **Lark**, includes grammar support for:
 * Tracks portfolio value, equity curve, returns, drawdown
 
 ---
-
-## License
-
-This project was created for a **Research Engineering Take-Home Assignment**.
-
